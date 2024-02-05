@@ -1,16 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 This folder contains deep learning algorithms for CAD detection using AI or deep learning.\
-\
-The data is not available here. In case one needed the data, the mat files are available from university network.\
-\
-\
-The main script can be run in google colab.\
-\
-\
-}
+DeepCAD is a Python project that explores the application of deep residual neural networks (ResNets) for detecting coronary artery diseases (CAD) using data from a wearable sensor equipped with joint accelerometer and gyroscope sensors. Leveraging the power of deep learning, this project aims to provide an effective and accurate solution for early detection of CAD, a critical cardiovascular condition. The ResNet architecture is employed to extract intricate features from the sensor data, enabling robust classification of CAD cases. The utilization of joint accelerometer and gyroscope sensors enhances the model's capability to capture comprehensive information about cardiac activity. DeepCAD represents a valuable tool in the realm of cardiovascular health monitoring, offering a Python-based solution for researchers and practitioners interested in leveraging deep learning for CAD detection from wearable sensor data.
+
+
