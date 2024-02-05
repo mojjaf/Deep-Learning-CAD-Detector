@@ -1,4 +1,5 @@
 
+<img width="1080" alt="image" src="https://github.com/mojjaf/Smartphone-Atrial-Fibrillation-Detection/assets/55555705/a739e611-b7a2-46de-94a0-c0cdf79055ad">
 
 
 
